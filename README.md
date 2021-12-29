@@ -1,8 +1,6 @@
 # myStrom Plug Prometheus Exporter
 
-[![CI](https://github.com/geerlingguy/shelly-plug-prometheus/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/geerlingguy/shelly-plug-prometheus/actions/workflows/ci.yml)
-
-I am a simple man.
+Cloned and updated for myStrom from https://github.com/geerlingguy/shelly-plug-prometheus
 
 I have a [myStrom Plug](https://mystrom.com/wifi-switch/). I don't want to flash a different firmware on it just to get a Prometheus endpoint. Though I might do it someday if I'm not lazy.
 
